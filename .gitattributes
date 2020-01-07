@@ -1,2 +1,2 @@
-*.ps1   text    eof=crlf
-*.bat   text    eof=crlf
+*.ps1   text    eol=crlf
+*.bat   text    eol=crlf
